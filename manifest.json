@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-canvas-temple-plugin",
+	"name": "Canvas Temple Plugin",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "This plugin allows for the user to use templates in the canvas view.",
+	"author": "Conner Ohnesorge",
+	"authorUrl": "https://conneroisu.github.io/Conner-Ohnesorges-Brain",
+	"fundingUrl": "https://ko-fi.com/connero",
+	"isDesktopOnly": false
+}
